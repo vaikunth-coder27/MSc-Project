@@ -1,0 +1,2477 @@
+Using device: cpu
+Programming language: ruby
+Masking ratio: 0.75
+Output directory: output
+Autoregressive model: Salesforce/codet5-large
+Non-autoregressive model: microsoft/codebert-base-mlm
+Quantization: False
+Loading model, dataset and tokenizer
+Model, dataset and tokenizer loaded successfully
+initiating extraction process...
+Extracting memorized content for samples 0 to 100...
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3352807252350227
+variable_names:  0.3436124150626693
+variable_values:  0.0
+strings:  0.04676384839650145
+comments:  0.054105486350384306
+total match:  259
+total pred:  1050
+T5: 
+exact match:  0.22756258865846865
+variable_names:  0.2686361703234562
+variable_values:  0.0
+strings:  0.01442419825072886
+comments:  0.004118075801749271
+exact match:  183
+total pred:  1255
+--------------------------------------------------
+Extracting memorized content for samples 100 to 200...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3970309693199659
+variable_names:  0.4081224324405334
+variable_values:  0.0
+strings:  0.050745983640759273
+comments:  0.09311638737419987
+total match:  525
+total pred:  1962
+T5: 
+exact match:  0.25071428782333316
+variable_names:  0.30311222271376664
+variable_values:  0.0
+strings:  0.010742152403414196
+comments:  0.013265749007936506
+exact match:  369
+total pred:  2382
+--------------------------------------------------
+Extracting memorized content for samples 200 to 300...
+Error in masking code
+Error in masking code
+index out of range in self
+Error in masking code
+index out of range in self
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.35930953806041926
+variable_names:  0.3781674153303651
+variable_values:  0.0
+strings:  0.05494106122720718
+comments:  0.07815573949651551
+total match:  971
+total pred:  4160
+T5: 
+exact match:  0.2284152516956509
+variable_names:  0.2750565934895882
+variable_values:  0.0
+strings:  0.013300332704824345
+comments:  0.016400983620846916
+exact match:  570
+total pred:  4745
+--------------------------------------------------
+Extracting memorized content for samples 300 to 400...
+Error in masking code
+Error in masking code
+Error in masking code
+index out of range in self
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3389604089038825
+variable_names:  0.35913984506627494
+variable_values:  0.0
+strings:  0.048722650614887265
+comments:  0.07214696399384446
+total match:  1258
+total pred:  5349
+T5: 
+exact match:  0.22264616766830797
+variable_names:  0.2641027027218923
+variable_values:  0.0
+strings:  0.01172018782038789
+comments:  0.013449116066516454
+exact match:  736
+total pred:  6127
+--------------------------------------------------
+Extracting memorized content for samples 400 to 500...
+Error in masking code
+index out of range in self
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.33302598740138917
+variable_names:  0.3518815145007552
+variable_values:  0.0
+strings:  0.05388892913210519
+comments:  0.0655921088838699
+total match:  1583
+total pred:  6638
+T5: 
+exact match:  0.21967201986355717
+variable_names:  0.2577047777653718
+variable_values:  0.0
+strings:  0.015525736814503957
+comments:  0.011223369165093524
+exact match:  913
+total pred:  7596
+--------------------------------------------------
+Extracting memorized content for samples 500 to 600...
+Error in masking code
+index out of range in self
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3348799328635247
+variable_names:  0.3559855525803081
+variable_values:  0.0
+strings:  0.05418105867100873
+comments:  0.06330998780173164
+total match:  1963
+total pred:  7955
+T5: 
+exact match:  0.2176298599358357
+variable_names:  0.2564749677769109
+variable_values:  0.0
+strings:  0.013277737404935342
+comments:  0.010510071211964617
+exact match:  1063
+total pred:  9107
+--------------------------------------------------
+Extracting memorized content for samples 600 to 700...
+Error in masking code
+Error in masking code
+index out of range in self
+codeBERT: 
+exact match:  0.33295696224946447
+variable_names:  0.3524155553891273
+variable_values:  0.0
+strings:  0.05298645509573675
+comments:  0.0610142301904765
+total match:  2425
+total pred:  9513
+T5: 
+exact match:  0.2136381990058676
+variable_names:  0.24813424249439744
+variable_values:  0.0
+strings:  0.012033868457855883
+comments:  0.010356527072126859
+exact match:  1250
+total pred:  10845
+--------------------------------------------------
+Extracting memorized content for samples 700 to 800...
+Error in masking code
+Error in masking code
+index out of range in self
+Error in masking code
+codeBERT: 
+exact match:  0.3352804342600337
+variable_names:  0.3545642262319835
+variable_values:  0.0
+strings:  0.04897864518605299
+comments:  0.0592943289418093
+total match:  2648
+total pred:  10249
+T5: 
+exact match:  0.21462678782904387
+variable_names:  0.24854734240306423
+variable_values:  0.0
+strings:  0.010940654350596117
+comments:  0.010308428855134182
+exact match:  1388
+total pred:  11817
+--------------------------------------------------
+Extracting memorized content for samples 800 to 900...
+Error in masking code
+Error in masking code
+Error in masking code
+index out of range in self
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.33417023077116326
+variable_names:  0.35372540721982515
+variable_values:  0.0
+strings:  0.04807418396478811
+comments:  0.0544391415381281
+total match:  2849
+total pred:  11185
+T5: 
+exact match:  0.21775656433635276
+variable_names:  0.25167204099347806
+variable_values:  0.0
+strings:  0.010221061677488468
+comments:  0.010230204106482815
+exact match:  1553
+total pred:  12967
+--------------------------------------------------
+Extracting memorized content for samples 900 to 1000...
+codeBERT: 
+exact match:  0.33689712285940543
+variable_names:  0.35566573380381855
+variable_values:  0.0
+strings:  0.04824396255992342
+comments:  0.0547242841204831
+total match:  3219
+total pred:  12390
+T5: 
+exact match:  0.2157997742916682
+variable_names:  0.24799767873464956
+variable_values:  0.0
+strings:  0.01205358320996517
+comments:  0.009897664365287993
+exact match:  1734
+total pred:  14365
+--------------------------------------------------
+Extracting memorized content for samples 1000 to 1100...
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.34067252666382347
+variable_names:  0.3579417737726358
+variable_values:  0.0
+strings:  0.047515359231812465
+comments:  0.05484089753735672
+total match:  3480
+total pred:  13403
+T5: 
+exact match:  0.21967932591240752
+variable_names:  0.2503839748444351
+variable_values:  0.0
+strings:  0.011471720443563971
+comments:  0.011030013463929282
+exact match:  1899
+total pred:  15607
+--------------------------------------------------
+Extracting memorized content for samples 1100 to 1200...
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.34433865908469313
+variable_names:  0.3625806786281552
+variable_values:  0.0
+strings:  0.05089983043090139
+comments:  0.054877460915896556
+total match:  3819
+total pred:  14532
+T5: 
+exact match:  0.2255152422086175
+variable_names:  0.2558720199965326
+variable_values:  0.0
+strings:  0.010941023812946604
+comments:  0.012141272606118025
+exact match:  2126
+total pred:  16942
+--------------------------------------------------
+Extracting memorized content for samples 1200 to 1300...
+index out of range in self
+codeBERT: 
+exact match:  0.3434550419863577
+variable_names:  0.36535240213576076
+variable_values:  0.0
+strings:  0.05215467154036615
+comments:  0.05411235914226456
+total match:  4305
+total pred:  16224
+T5: 
+exact match:  0.22082970139875227
+variable_names:  0.25249764235419514
+variable_values:  0.0
+strings:  0.012147338003861627
+comments:  0.011377752277741564
+exact match:  2370
+total pred:  18818
+--------------------------------------------------
+Extracting memorized content for samples 1300 to 1400...
+index out of range in self
+Error in masking code
+codeBERT: 
+exact match:  0.33826513182908163
+variable_names:  0.35934763678396764
+variable_values:  0.0
+strings:  0.051832079886079505
+comments:  0.053013431214049694
+total match:  4634
+total pred:  17521
+T5: 
+exact match:  0.22276175634590872
+variable_names:  0.25393682453864463
+variable_values:  0.0
+strings:  0.013258122385524493
+comments:  0.011799042998429075
+exact match:  2637
+total pred:  20271
+--------------------------------------------------
+Extracting memorized content for samples 1400 to 1500...
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.34062763233011895
+variable_names:  0.3608540862673876
+variable_values:  0.0
+strings:  0.052341957235998195
+comments:  0.05008054162120128
+total match:  4940
+total pred:  18472
+T5: 
+exact match:  0.21962685451417283
+variable_names:  0.2499503027701041
+variable_values:  0.0
+strings:  0.013358026964032522
+comments:  0.011375428803982816
+exact match:  2814
+total pred:  21405
+--------------------------------------------------
+Extracting memorized content for samples 1500 to 1600...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3434510040968737
+variable_names:  0.364597145039409
+variable_values:  0.0
+strings:  0.05051969853742301
+comments:  0.048131088197297466
+total match:  5210
+total pred:  19230
+T5: 
+exact match:  0.22244070004424724
+variable_names:  0.25273341923031334
+variable_values:  0.0
+strings:  0.01291425797605603
+comments:  0.01112597285690112
+exact match:  2993
+total pred:  22377
+--------------------------------------------------
+Extracting memorized content for samples 1600 to 1700...
+index out of range in self
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3439050786197821
+variable_names:  0.36842858719261873
+variable_values:  0.0
+strings:  0.052060086177477184
+comments:  0.04722311754333315
+total match:  5528
+total pred:  20342
+T5: 
+exact match:  0.22199764209308068
+variable_names:  0.2535052201422243
+variable_values:  0.0
+strings:  0.013409465376148792
+comments:  0.010692236985653122
+exact match:  3154
+total pred:  23683
+--------------------------------------------------
+Extracting memorized content for samples 1700 to 1800...
+Error in masking code
+codeBERT: 
+exact match:  0.347497469144815
+variable_names:  0.3707978836908856
+variable_values:  0.0
+strings:  0.050675801588550395
+comments:  0.04617464803901797
+total match:  5802
+total pred:  21142
+T5: 
+exact match:  0.22637580817770567
+variable_names:  0.257399070196628
+variable_values:  0.0
+strings:  0.013568518547527395
+comments:  0.010324002472136084
+exact match:  3350
+total pred:  24702
+--------------------------------------------------
+Extracting memorized content for samples 1800 to 1900...
+Error in masking code
+Error in masking code
+Error in masking code
+The expanded size of the tensor (7178) must match the existing size (514) at non-singleton dimension 1.  Target sizes: [1, 7178].  Tensor sizes: [1, 514]
+index out of range in self
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3457405880329852
+variable_names:  0.3684941906137348
+variable_values:  0.0
+strings:  0.05190100194341268
+comments:  0.04635021171052901
+total match:  6036
+total pred:  22236
+T5: 
+exact match:  0.22544810350506725
+variable_names:  0.2563376653061469
+variable_values:  0.0
+strings:  0.013570319365886246
+comments:  0.01052202337351328
+exact match:  3477
+total pred:  25978
+--------------------------------------------------
+Extracting memorized content for samples 1900 to 2000...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3449693759912373
+variable_names:  0.3668341869292836
+variable_values:  0.0
+strings:  0.05395004707490613
+comments:  0.04751740295095082
+total match:  6416
+total pred:  23390
+T5: 
+exact match:  0.22519435132652352
+variable_names:  0.25581158166329027
+variable_values:  0.0
+strings:  0.014690451513899994
+comments:  0.010821560845023415
+exact match:  3681
+total pred:  27307
+--------------------------------------------------
+Extracting memorized content for samples 2000 to 2100...
+Error in masking code
+too many values to unpack (expected 2)
+index out of range in self
+Error in masking code
+codeBERT: 
+exact match:  0.34178026756919544
+variable_names:  0.36274501153233757
+variable_values:  0.0
+strings:  0.05585202716277764
+comments:  0.04677595174084047
+total match:  6667
+total pred:  24452
+T5: 
+exact match:  0.2210716698717668
+variable_names:  0.2518219037705566
+variable_values:  0.0
+strings:  0.014784744085801384
+comments:  0.010930825793172972
+exact match:  3789
+total pred:  28530
+--------------------------------------------------
+Extracting memorized content for samples 2100 to 2200...
+Error in masking code
+index out of range in self
+codeBERT: 
+exact match:  0.34402995435594846
+variable_names:  0.36618488083843237
+variable_values:  0.0
+strings:  0.055116915519270525
+comments:  0.04843853710281937
+total match:  7082
+total pred:  26117
+T5: 
+exact match:  0.22103245982876416
+variable_names:  0.25156196762817634
+variable_values:  0.0
+strings:  0.015509869541102339
+comments:  0.01171583483339053
+exact match:  3947
+total pred:  30391
+--------------------------------------------------
+Extracting memorized content for samples 2200 to 2300...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.34251848637537574
+variable_names:  0.3646526173960563
+variable_values:  0.0
+strings:  0.05446025217776765
+comments:  0.047974954500113576
+total match:  7332
+total pred:  27033
+T5: 
+exact match:  0.2188841948610154
+variable_names:  0.24933254410520816
+variable_values:  0.0
+strings:  0.01505324854820822
+comments:  0.012187560461902579
+exact match:  4080
+total pred:  31491
+--------------------------------------------------
+Extracting memorized content for samples 2300 to 2400...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3434904251937611
+variable_names:  0.36512193500042
+variable_values:  0.0
+strings:  0.056260467650358456
+comments:  0.04765678866784188
+total match:  7577
+total pred:  27863
+T5: 
+exact match:  0.21928572946486635
+variable_names:  0.24987561581581713
+variable_values:  0.0
+strings:  0.016600197259858358
+comments:  0.012507396689338092
+exact match:  4221
+total pred:  32550
+--------------------------------------------------
+Extracting memorized content for samples 2400 to 2500...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+index out of range in self
+codeBERT: 
+exact match:  0.34278728854436524
+variable_names:  0.36466039008648
+variable_values:  0.0
+strings:  0.05566081175271164
+comments:  0.048155433372540316
+total match:  7829
+total pred:  28804
+T5: 
+exact match:  0.22109703082112694
+variable_names:  0.2526554093834144
+variable_values:  0.0
+strings:  0.01639121453409009
+comments:  0.012191915978934528
+exact match:  4399
+total pred:  33705
+--------------------------------------------------
+Extracting memorized content for samples 2500 to 2600...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.34336256337650983
+variable_names:  0.36494078572772426
+variable_values:  0.0
+strings:  0.05694499736223507
+comments:  0.046971902425286545
+total match:  8082
+total pred:  29804
+T5: 
+exact match:  0.22197598003124105
+variable_names:  0.2532623186467325
+variable_values:  0.0
+strings:  0.016329925585953767
+comments:  0.012035467845968203
+exact match:  4569
+total pred:  34899
+--------------------------------------------------
+Extracting memorized content for samples 2600 to 2700...
+index out of range in self
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.34288631326650665
+variable_names:  0.36519227472625243
+variable_values:  0.0
+strings:  0.05653902086558881
+comments:  0.04592693257179129
+total match:  8317
+total pred:  30668
+T5: 
+exact match:  0.21933634282616055
+variable_names:  0.25047919055324774
+variable_values:  0.0
+strings:  0.016574575193389632
+comments:  0.011813241541573701
+exact match:  4692
+total pred:  35959
+--------------------------------------------------
+Extracting memorized content for samples 2700 to 2800...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+index out of range in self
+Error in masking code
+codeBERT: 
+exact match:  0.342165624942071
+variable_names:  0.364073293621986
+variable_values:  0.0
+strings:  0.05719350025119431
+comments:  0.04451852840150251
+total match:  8553
+total pred:  31684
+T5: 
+exact match:  0.21704092755304777
+variable_names:  0.24780588972019224
+variable_values:  0.0
+strings:  0.017153861809669928
+comments:  0.011558552849615943
+exact match:  4827
+total pred:  37146
+--------------------------------------------------
+Extracting memorized content for samples 2800 to 2900...
+too many values to unpack (expected 2)
+Error in masking code
+Error in masking code
+index out of range in self
+codeBERT: 
+exact match:  0.3403358105128658
+variable_names:  0.3621106880748329
+variable_values:  0.0
+strings:  0.057227828849482444
+comments:  0.043951769694301764
+total match:  8914
+total pred:  33439
+T5: 
+exact match:  0.21481404902485673
+variable_names:  0.24531682175031205
+variable_values:  0.0
+strings:  0.01705891152240918
+comments:  0.011374463902164683
+exact match:  4958
+total pred:  39106
+--------------------------------------------------
+Extracting memorized content for samples 2900 to 3000...
+index out of range in self
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3401718868438456
+variable_names:  0.3617750429693421
+variable_values:  0.0
+strings:  0.05677380344171904
+comments:  0.04377800760284252
+total match:  9216
+total pred:  34680
+T5: 
+exact match:  0.21271695116760525
+variable_names:  0.24344697656725853
+variable_values:  0.0
+strings:  0.016992998401271053
+comments:  0.01148313903081916
+exact match:  5095
+total pred:  40533
+--------------------------------------------------
+Extracting memorized content for samples 3000 to 3100...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3394262343041748
+variable_names:  0.3606383813358358
+variable_values:  0.0
+strings:  0.0567905270059804
+comments:  0.044480425549250115
+total match:  9471
+total pred:  35879
+T5: 
+exact match:  0.2113045532827781
+variable_names:  0.2418628942298527
+variable_values:  0.0
+strings:  0.016673382392593767
+comments:  0.012148866598312533
+exact match:  5244
+total pred:  41944
+--------------------------------------------------
+Extracting memorized content for samples 3100 to 3200...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3419462186930457
+variable_names:  0.36154886205669345
+variable_values:  0.0
+strings:  0.05722689644161319
+comments:  0.04465419261298791
+total match:  9773
+total pred:  36730
+T5: 
+exact match:  0.21100845190222342
+variable_names:  0.24097851624611946
+variable_values:  0.0
+strings:  0.017027438002500957
+comments:  0.011881830419488286
+exact match:  5369
+total pred:  42990
+--------------------------------------------------
+Extracting memorized content for samples 3200 to 3300...
+Error in masking code
+index out of range in self
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.340541464377663
+variable_names:  0.3598254395880486
+variable_values:  0.0
+strings:  0.05782948579998535
+comments:  0.04357355880667829
+total match:  10043
+total pred:  37933
+T5: 
+exact match:  0.2111341442355303
+variable_names:  0.2410591396711343
+variable_values:  0.0
+strings:  0.016990721216916874
+comments:  0.011630720333176534
+exact match:  5500
+total pred:  44403
+--------------------------------------------------
+Extracting memorized content for samples 3300 to 3400...
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.34201582083924714
+variable_names:  0.36107387134901164
+variable_values:  0.0
+strings:  0.05675832602616861
+comments:  0.042381076372168855
+total match:  10263
+total pred:  38628
+T5: 
+exact match:  0.21166948723063556
+variable_names:  0.24157453502316487
+variable_values:  0.0
+strings:  0.016940914290046565
+comments:  0.011299138125527627
+exact match:  5632
+total pred:  45291
+--------------------------------------------------
+Extracting memorized content for samples 3400 to 3500...
+Error in masking code
+codeBERT: 
+exact match:  0.3417348875756426
+variable_names:  0.36218132863988506
+variable_values:  0.0
+strings:  0.056230042380529616
+comments:  0.04297516942501093
+total match:  10851
+total pred:  40936
+T5: 
+exact match:  0.21139680730240612
+variable_names:  0.2417665361940929
+variable_values:  0.0
+strings:  0.0166005917744439
+comments:  0.011509473485709892
+exact match:  5839
+total pred:  47776
+--------------------------------------------------
+Extracting memorized content for samples 3500 to 3600...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3426487066110715
+variable_names:  0.3632653359892174
+variable_values:  0.0
+strings:  0.05664635628998329
+comments:  0.04352635038565023
+total match:  11254
+total pred:  42272
+T5: 
+exact match:  0.2122228669731054
+variable_names:  0.24331187051780515
+variable_values:  0.0
+strings:  0.01667457855879321
+comments:  0.011432390154095293
+exact match:  6047
+total pred:  49320
+--------------------------------------------------
+Extracting memorized content for samples 3600 to 3700...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.34284046121822076
+variable_names:  0.36350053902948537
+variable_values:  0.0
+strings:  0.056057100186442055
+comments:  0.04354236603856993
+total match:  11520
+total pred:  43199
+T5: 
+exact match:  0.2128562015266584
+variable_names:  0.24387361708302518
+variable_values:  0.0
+strings:  0.016616888924127875
+comments:  0.011561048372475957
+exact match:  6212
+total pred:  50442
+--------------------------------------------------
+Extracting memorized content for samples 3700 to 3800...
+codeBERT: 
+exact match:  0.3412111698967271
+variable_names:  0.36092597321391295
+variable_values:  0.0
+strings:  0.05631756247172518
+comments:  0.04384643668973584
+total match:  11751
+total pred:  44268
+T5: 
+exact match:  0.21228866130895258
+variable_names:  0.24317042073544445
+variable_values:  0.0
+strings:  0.016708328141008283
+comments:  0.011531882666800419
+exact match:  6362
+total pred:  51674
+--------------------------------------------------
+Extracting memorized content for samples 3800 to 3900...
+Error in masking code
+codeBERT: 
+exact match:  0.3400457494152626
+variable_names:  0.35963576733758695
+variable_values:  0.0
+strings:  0.05797341504094765
+comments:  0.04450923232750321
+total match:  12180
+total pred:  46344
+T5: 
+exact match:  0.21119557179345488
+variable_names:  0.24304158481498242
+variable_values:  0.0
+strings:  0.01690148132938884
+comments:  0.01167788135299014
+exact match:  6562
+total pred:  53926
+--------------------------------------------------
+Extracting memorized content for samples 3900 to 4000...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3395827477881293
+variable_names:  0.35883553041408206
+variable_values:  0.0
+strings:  0.05771782986534011
+comments:  0.044451330793246195
+total match:  12411
+total pred:  47290
+T5: 
+exact match:  0.21108607971406915
+variable_names:  0.24280170759349337
+variable_values:  0.0
+strings:  0.016880915697079276
+comments:  0.01173245650286171
+exact match:  6716
+total pred:  55059
+--------------------------------------------------
+Extracting memorized content for samples 4000 to 4100...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+too many values to unpack (expected 2)
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.34017393742768987
+variable_names:  0.35937484690209914
+variable_values:  0.0
+strings:  0.05691488325251985
+comments:  0.04413917439374423
+total match:  12646
+total pred:  48040
+T5: 
+exact match:  0.21351715863195056
+variable_names:  0.2449829985403614
+variable_values:  0.0
+strings:  0.016676116948472833
+comments:  0.011847863826474682
+exact match:  6864
+total pred:  56053
+--------------------------------------------------
+Extracting memorized content for samples 4100 to 4200...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.34074772378096674
+variable_names:  0.35991224165218055
+variable_values:  0.0
+strings:  0.05695177313036312
+comments:  0.04353858690552877
+total match:  12878
+total pred:  48775
+T5: 
+exact match:  0.21439065545196562
+variable_names:  0.2459520791223483
+variable_values:  0.0
+strings:  0.016597593545050037
+comments:  0.011564506844077678
+exact match:  7002
+total pred:  56997
+--------------------------------------------------
+Extracting memorized content for samples 4200 to 4300...
+Error in masking code
+too many values to unpack (expected 2)
+too many values to unpack (expected 2)
+too many values to unpack (expected 2)
+too many values to unpack (expected 2)
+Error in masking code
+too many values to unpack (expected 2)
+codeBERT: 
+exact match:  0.3425564571347033
+variable_names:  0.3612352987623485
+variable_values:  0.0
+strings:  0.056885372989794764
+comments:  0.04278584455718729
+total match:  13199
+total pred:  49687
+T5: 
+exact match:  0.2149639371362134
+variable_names:  0.24605161409293946
+variable_values:  0.0
+strings:  0.01663915904653435
+comments:  0.011302637076242465
+exact match:  7159
+total pred:  58103
+--------------------------------------------------
+Extracting memorized content for samples 4300 to 4400...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3430290431156326
+variable_names:  0.36126991294119526
+variable_values:  0.0
+strings:  0.05680489728273697
+comments:  0.04322225321509276
+total match:  13485
+total pred:  50512
+T5: 
+exact match:  0.21501751154525925
+variable_names:  0.24580297689351838
+variable_values:  0.0
+strings:  0.016748553190877806
+comments:  0.011217254567765471
+exact match:  7335
+total pred:  59148
+--------------------------------------------------
+Extracting memorized content for samples 4400 to 4500...
+Error in masking code
+Error in masking code
+too many values to unpack (expected 2)
+too many values to unpack (expected 2)
+too many values to unpack (expected 2)
+Error in masking code
+too many values to unpack (expected 2)
+codeBERT: 
+exact match:  0.34289132097172287
+variable_names:  0.3603926789736244
+variable_values:  0.0
+strings:  0.0573377178743106
+comments:  0.04309830301448193
+total match:  13698
+total pred:  51194
+T5: 
+exact match:  0.2154505866908245
+variable_names:  0.24722243965523974
+variable_values:  0.0
+strings:  0.017058109341931707
+comments:  0.011044056389074389
+exact match:  7472
+total pred:  60002
+--------------------------------------------------
+Extracting memorized content for samples 4500 to 4600...
+Error in masking code
+index out of range in self
+codeBERT: 
+exact match:  0.3422504121477452
+variable_names:  0.35963075804652356
+variable_values:  0.0
+strings:  0.05780641953040731
+comments:  0.04269351238541507
+total match:  13919
+total pred:  52027
+T5: 
+exact match:  0.21491304456534335
+variable_names:  0.2467225003194791
+variable_values:  0.0
+strings:  0.016677659930118025
+comments:  0.01091042242093615
+exact match:  7594
+total pred:  61045
+--------------------------------------------------
+Extracting memorized content for samples 4600 to 4700...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.34261308073202473
+variable_names:  0.360195128190798
+variable_values:  0.0
+strings:  0.05841635795295293
+comments:  0.04276248631618259
+total match:  14212
+total pred:  53100
+T5: 
+exact match:  0.2141024242794359
+variable_names:  0.24571546177010864
+variable_values:  0.0
+strings:  0.016813899953271105
+comments:  0.011019557403050006
+exact match:  7763
+total pred:  62294
+--------------------------------------------------
+Extracting memorized content for samples 4700 to 4800...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3413581374031105
+variable_names:  0.359193119490742
+variable_values:  0.0
+strings:  0.05882945616400297
+comments:  0.04298182887792798
+total match:  14483
+total pred:  54192
+T5: 
+exact match:  0.21391352950157003
+variable_names:  0.24596615301882918
+variable_values:  0.0
+strings:  0.016591963127306264
+comments:  0.010869133669680727
+exact match:  7912
+total pred:  63551
+--------------------------------------------------
+Extracting memorized content for samples 4800 to 4900...
+codeBERT: 
+exact match:  0.34180698834119067
+variable_names:  0.3595269740412491
+variable_values:  0.0
+strings:  0.0590813011807098
+comments:  0.042734668336984666
+total match:  14775
+total pred:  55110
+T5: 
+exact match:  0.21450677593785952
+variable_names:  0.24644911079291357
+variable_values:  0.0
+strings:  0.01688182101581009
+comments:  0.010926287305400741
+exact match:  8083
+total pred:  64680
+--------------------------------------------------
+Extracting memorized content for samples 4900 to 5000...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+index out of range in self
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3411402413718498
+variable_names:  0.3587324817436819
+variable_values:  0.0
+strings:  0.058418708919868736
+comments:  0.04295799734232679
+total match:  14999
+total pred:  55862
+T5: 
+exact match:  0.21489259154989493
+variable_names:  0.24646729393445957
+variable_values:  0.0
+strings:  0.016971946910911674
+comments:  0.0111356787947634
+exact match:  8237
+total pred:  65631
+--------------------------------------------------
+Extracting memorized content for samples 5000 to 5100...
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3412063914135385
+variable_names:  0.3592215779085161
+variable_values:  0.0
+strings:  0.05853284356592358
+comments:  0.04332112372254245
+total match:  15228
+total pred:  56708
+T5: 
+exact match:  0.21630485650047523
+variable_names:  0.24811983636445314
+variable_values:  0.0
+strings:  0.016679412681631433
+comments:  0.011417734029694192
+exact match:  8424
+total pred:  66671
+--------------------------------------------------
+Extracting memorized content for samples 5100 to 5200...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3397761179594523
+variable_names:  0.3585138899059672
+variable_values:  0.0
+strings:  0.05783436555744676
+comments:  0.04324648368206249
+total match:  15683
+total pred:  59296
+T5: 
+exact match:  0.21509195763778682
+variable_names:  0.2471563575486301
+variable_values:  0.0
+strings:  0.016643379009719794
+comments:  0.01139490413443282
+exact match:  8618
+total pred:  69426
+--------------------------------------------------
+Extracting memorized content for samples 5200 to 5300...
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3401704537248002
+variable_names:  0.35877743059488615
+variable_values:  0.0
+strings:  0.05763320721577491
+comments:  0.04366558014575414
+total match:  16032
+total pred:  60356
+T5: 
+exact match:  0.2154123896888883
+variable_names:  0.24771122234071544
+variable_values:  0.0
+strings:  0.01645446882781711
+comments:  0.011189680061250975
+exact match:  8809
+total pred:  70696
+--------------------------------------------------
+Extracting memorized content for samples 5300 to 5400...
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.33952769746315337
+variable_names:  0.35810899553857134
+variable_values:  0.0
+strings:  0.05716459772244479
+comments:  0.04360228417201287
+total match:  16464
+total pred:  61742
+T5: 
+exact match:  0.2163896488305999
+variable_names:  0.24846318186449448
+variable_values:  0.0
+strings:  0.0162902201679859
+comments:  0.010993610869341848
+exact match:  9026
+total pred:  72276
+--------------------------------------------------
+Extracting memorized content for samples 5400 to 5500...
+index out of range in self
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.33980097409761406
+variable_names:  0.3581222352765932
+variable_values:  0.0
+strings:  0.05726704631507202
+comments:  0.04347669385417446
+total match:  16740
+total pred:  62578
+T5: 
+exact match:  0.21621417433233672
+variable_names:  0.248158173859373
+variable_values:  0.0
+strings:  0.016227394029775695
+comments:  0.010891117534128074
+exact match:  9206
+total pred:  73299
+--------------------------------------------------
+Extracting memorized content for samples 5500 to 5600...
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.33918783184160095
+variable_names:  0.3577038610476859
+variable_values:  0.0
+strings:  0.05775962233463418
+comments:  0.04311969113537828
+total match:  17027
+total pred:  63881
+T5: 
+exact match:  0.21633585392758084
+variable_names:  0.24827009582597692
+variable_values:  0.0
+strings:  0.016542183790691948
+comments:  0.011134954212154108
+exact match:  9370
+total pred:  74801
+--------------------------------------------------
+Extracting memorized content for samples 5600 to 5700...
+Error in masking code
+Error in masking code
+index out of range in self
+codeBERT: 
+exact match:  0.3403203281109803
+variable_names:  0.3588564598055897
+variable_values:  0.0
+strings:  0.0575521944757841
+comments:  0.042910036872682786
+total match:  17371
+total pred:  64956
+T5: 
+exact match:  0.21557686291332553
+variable_names:  0.2471536688515172
+variable_values:  0.0
+strings:  0.01649021769484527
+comments:  0.011332763716076956
+exact match:  9523
+total pred:  76060
+--------------------------------------------------
+Extracting memorized content for samples 5700 to 5800...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+index out of range in self
+codeBERT: 
+exact match:  0.3410584118689833
+variable_names:  0.35939226716362543
+variable_values:  0.0
+strings:  0.05737216898464052
+comments:  0.04287683414847933
+total match:  17665
+total pred:  65997
+T5: 
+exact match:  0.2157291068284377
+variable_names:  0.2471056745889763
+variable_values:  0.0
+strings:  0.01703078764410696
+comments:  0.011300749862942905
+exact match:  9691
+total pred:  77300
+--------------------------------------------------
+Extracting memorized content for samples 5800 to 5900...
+codeBERT: 
+exact match:  0.34169561786271924
+variable_names:  0.3598913294483317
+variable_values:  0.0
+strings:  0.05647387595390382
+comments:  0.042459070762856224
+total match:  17960
+total pred:  66888
+T5: 
+exact match:  0.21619718176714064
+variable_names:  0.24718516506905114
+variable_values:  0.0
+strings:  0.016767332823521348
+comments:  0.011170213662534442
+exact match:  9898
+total pred:  78392
+--------------------------------------------------
+Extracting memorized content for samples 5900 to 6000...
+Error in masking code
+Error in masking code
+Error in masking code
+too many values to unpack (expected 2)
+codeBERT: 
+exact match:  0.3415259950205124
+variable_names:  0.3598479719286612
+variable_values:  0.0
+strings:  0.05724826862964145
+comments:  0.04249774405090728
+total match:  18279
+total pred:  68226
+T5: 
+exact match:  0.21638220389455357
+variable_names:  0.24722599798620468
+variable_values:  0.0
+strings:  0.017225949909640336
+comments:  0.011185011600953367
+exact match:  10082
+total pred:  79919
+--------------------------------------------------
+Extracting memorized content for samples 6000 to 6100...
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3423222545151776
+variable_names:  0.3609924721276712
+variable_values:  0.0
+strings:  0.0571744280409777
+comments:  0.042610803064882
+total match:  18553
+total pred:  69118
+T5: 
+exact match:  0.21697383152334548
+variable_names:  0.24783170907124952
+variable_values:  0.0
+strings:  0.01711096839443295
+comments:  0.011227580102759854
+exact match:  10222
+total pred:  81033
+--------------------------------------------------
+Extracting memorized content for samples 6100 to 6200...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.34198793633535135
+variable_names:  0.36052883011414644
+variable_values:  0.0
+strings:  0.05673453490645551
+comments:  0.04303957695509002
+total match:  18838
+total pred:  70380
+T5: 
+exact match:  0.2165173309622824
+variable_names:  0.24715692768859468
+variable_values:  0.0
+strings:  0.0171835704959361
+comments:  0.011223374597617197
+exact match:  10366
+total pred:  82495
+--------------------------------------------------
+Extracting memorized content for samples 6200 to 6300...
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.34296443213530575
+variable_names:  0.36208555218498006
+variable_values:  0.0
+strings:  0.056641462047355075
+comments:  0.0430984630451386
+total match:  19175
+total pred:  71544
+T5: 
+exact match:  0.21667763652383612
+variable_names:  0.24743453029445014
+variable_values:  0.0
+strings:  0.017272551715726704
+comments:  0.011322483857888598
+exact match:  10558
+total pred:  83887
+--------------------------------------------------
+Extracting memorized content for samples 6300 to 6400...
+index out of range in self
+codeBERT: 
+exact match:  0.34247233331429805
+variable_names:  0.36161783187843366
+variable_values:  0.0
+strings:  0.05689273868041697
+comments:  0.043038758083518404
+total match:  19443
+total pred:  72628
+T5: 
+exact match:  0.216911631765131
+variable_names:  0.2476604301186638
+variable_values:  0.0
+strings:  0.017582889373456735
+comments:  0.011213122854007744
+exact match:  10736
+total pred:  85184
+--------------------------------------------------
+Extracting memorized content for samples 6400 to 6500...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3424503980584379
+variable_names:  0.36182762042938665
+variable_values:  0.0
+strings:  0.057162518173928464
+comments:  0.043171083427492436
+total match:  19871
+total pred:  73996
+T5: 
+exact match:  0.2171569175241333
+variable_names:  0.2479159881998716
+variable_values:  0.0
+strings:  0.017598759057394317
+comments:  0.011050505433302379
+exact match:  10953
+total pred:  86742
+--------------------------------------------------
+Extracting memorized content for samples 6500 to 6600...
+index out of range in self
+Error in masking code
+index out of range in self
+codeBERT: 
+exact match:  0.3418335466761955
+variable_names:  0.3616498871719234
+variable_values:  0.0
+strings:  0.05767123892850602
+comments:  0.043081745958031506
+total match:  20210
+total pred:  75783
+T5: 
+exact match:  0.2170718623880134
+variable_names:  0.2481443471341387
+variable_values:  0.0
+strings:  0.017552214136881367
+comments:  0.010996351752103459
+exact match:  11164
+total pred:  88738
+--------------------------------------------------
+Extracting memorized content for samples 6600 to 6700...
+too many values to unpack (expected 2)
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3413801055710156
+variable_names:  0.3614058286871141
+variable_values:  0.0
+strings:  0.05732558031977798
+comments:  0.04343083193510036
+total match:  20508
+total pred:  77412
+T5: 
+exact match:  0.2166590413838078
+variable_names:  0.24774575440375748
+variable_values:  0.0
+strings:  0.017600169688020004
+comments:  0.011120834640336284
+exact match:  11345
+total pred:  90554
+--------------------------------------------------
+Extracting memorized content for samples 6700 to 6800...
+too many values to unpack (expected 2)
+index out of range in self
+Error in masking code
+codeBERT: 
+exact match:  0.34186203886641303
+variable_names:  0.36222756761964237
+variable_values:  0.0
+strings:  0.05746653390319202
+comments:  0.04360963927461339
+total match:  20906
+total pred:  79309
+T5: 
+exact match:  0.21613138948741606
+variable_names:  0.2475288797166013
+variable_values:  0.0
+strings:  0.017561664901013636
+comments:  0.011088261901321483
+exact match:  11526
+total pred:  92630
+--------------------------------------------------
+Extracting memorized content for samples 6800 to 6900...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+too many values to unpack (expected 2)
+Error in masking code
+codeBERT: 
+exact match:  0.34146050906637065
+variable_names:  0.3616582196457884
+variable_values:  0.0
+strings:  0.05782995861419256
+comments:  0.04350327518032465
+total match:  21123
+total pred:  79987
+T5: 
+exact match:  0.21582321284106823
+variable_names:  0.24723537358870692
+variable_values:  0.0
+strings:  0.017463675239492868
+comments:  0.011035050154346176
+exact match:  11657
+total pred:  93494
+--------------------------------------------------
+Extracting memorized content for samples 6900 to 7000...
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3414930611784284
+variable_names:  0.3616136342199572
+variable_values:  0.0
+strings:  0.05817874196825536
+comments:  0.043450458137901084
+total match:  21467
+total pred:  81271
+T5: 
+exact match:  0.21598487591292648
+variable_names:  0.24733413209388858
+variable_values:  0.0
+strings:  0.01774108754019301
+comments:  0.010988940642030376
+exact match:  11848
+total pred:  94966
+--------------------------------------------------
+Extracting memorized content for samples 7000 to 7100...
+index out of range in self
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.34086211802757804
+variable_names:  0.3606929833735966
+variable_values:  0.0
+strings:  0.05827205566245406
+comments:  0.04338812759687044
+total match:  21738
+total pred:  82330
+T5: 
+exact match:  0.21507334196349873
+variable_names:  0.24643764462036769
+variable_values:  0.0
+strings:  0.017632608034667877
+comments:  0.011005265959672108
+exact match:  12008
+total pred:  96253
+--------------------------------------------------
+Extracting memorized content for samples 7100 to 7200...
+codeBERT: 
+exact match:  0.33808916629665536
+variable_names:  0.3575334757907854
+variable_values:  0.0
+strings:  0.05801920315091813
+comments:  0.04305481450143613
+total match:  22040
+total pred:  84159
+T5: 
+exact match:  0.21609524168212824
+variable_names:  0.24723405430651477
+variable_values:  0.0
+strings:  0.017544719078319167
+comments:  0.011033259030795979
+exact match:  12410
+total pred:  98259
+--------------------------------------------------
+Extracting memorized content for samples 7200 to 7300...
+Error in masking code
+Error in masking code
+Error in masking code
+too many values to unpack (expected 2)
+codeBERT: 
+exact match:  0.33778713753334505
+variable_names:  0.3575816791552905
+variable_values:  0.0
+strings:  0.05798255211432412
+comments:  0.0429289728482869
+total match:  22315
+total pred:  85352
+T5: 
+exact match:  0.21631512607676048
+variable_names:  0.24776861824406105
+variable_values:  0.0
+strings:  0.017718175263608717
+comments:  0.011125043264505929
+exact match:  12598
+total pred:  99642
+--------------------------------------------------
+Extracting memorized content for samples 7300 to 7400...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+index out of range in self
+codeBERT: 
+exact match:  0.33749488395040417
+variable_names:  0.3578575197764587
+variable_values:  0.0
+strings:  0.05839546993802518
+comments:  0.04319076716841817
+total match:  22829
+total pred:  87416
+T5: 
+exact match:  0.2161136657493933
+variable_names:  0.2481201532989284
+variable_values:  0.0
+strings:  0.01768755433090995
+comments:  0.011039953206487508
+exact match:  12807
+total pred:  101864
+--------------------------------------------------
+Extracting memorized content for samples 7400 to 7500...
+index out of range in self
+Error in masking code
+index out of range in self
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3377954874912233
+variable_names:  0.358538377576414
+variable_values:  0.0
+strings:  0.058323924782080726
+comments:  0.04309463607862987
+total match:  23263
+total pred:  89107
+T5: 
+exact match:  0.21564481491775161
+variable_names:  0.24783615234053022
+variable_values:  0.0
+strings:  0.017671399370931366
+comments:  0.010960542918709076
+exact match:  12998
+total pred:  103732
+--------------------------------------------------
+Extracting memorized content for samples 7500 to 7600...
+index out of range in self
+Error in masking code
+Error in masking code
+Error in masking code
+too many values to unpack (expected 2)
+Error in masking code
+codeBERT: 
+exact match:  0.3373132837317217
+variable_names:  0.3579431856970459
+variable_values:  0.0
+strings:  0.058684673549394106
+comments:  0.04295194529257913
+total match:  23500
+total pred:  90147
+T5: 
+exact match:  0.2154203348233249
+variable_names:  0.24755523881553737
+variable_values:  0.0
+strings:  0.01781126487521991
+comments:  0.010920482394163373
+exact match:  13133
+total pred:  104983
+--------------------------------------------------
+Extracting memorized content for samples 7600 to 7700...
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.33514464038957575
+variable_names:  0.3553446063182878
+variable_values:  0.0
+strings:  0.05895500189932899
+comments:  0.04253066953958933
+total match:  23645
+total pred:  90959
+T5: 
+exact match:  0.21582068180951366
+variable_names:  0.24855090316269837
+variable_values:  0.0
+strings:  0.01768966814087171
+comments:  0.010823654965048727
+exact match:  13288
+total pred:  105994
+--------------------------------------------------
+Extracting memorized content for samples 7700 to 7800...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3347712383820888
+variable_names:  0.35501313523474537
+variable_values:  0.0
+strings:  0.05921687617797627
+comments:  0.04215414441446197
+total match:  23893
+total pred:  91850
+T5: 
+exact match:  0.21555683759470887
+variable_names:  0.24838913982674168
+variable_values:  0.0
+strings:  0.017730052438807785
+comments:  0.010705697636122067
+exact match:  13434
+total pred:  107077
+--------------------------------------------------
+Extracting memorized content for samples 7800 to 7900...
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3349643640207611
+variable_names:  0.3554302138030425
+variable_values:  0.0
+strings:  0.05935007353912399
+comments:  0.04223724886279997
+total match:  24242
+total pred:  93073
+T5: 
+exact match:  0.21549553550481157
+variable_names:  0.24841927215465887
+variable_values:  0.0
+strings:  0.018061373414500967
+comments:  0.01061361145755026
+exact match:  13611
+total pred:  108517
+--------------------------------------------------
+Extracting memorized content for samples 7900 to 8000...
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.33558021366437957
+variable_names:  0.3561561110546482
+variable_values:  0.0
+strings:  0.059851286973506425
+comments:  0.04201491031491176
+total match:  24568
+total pred:  94032
+T5: 
+exact match:  0.21529240151443627
+variable_names:  0.24816099818516013
+variable_values:  0.0
+strings:  0.017978748436243374
+comments:  0.010585845002942905
+exact match:  13780
+total pred:  109679
+--------------------------------------------------
+Extracting memorized content for samples 8000 to 8100...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3354824328412205
+variable_names:  0.3559865465510009
+variable_values:  0.0
+strings:  0.05941686437322899
+comments:  0.041802635504398285
+total match:  24813
+total pred:  95407
+T5: 
+exact match:  0.2151984865082524
+variable_names:  0.2478799873370036
+variable_values:  0.0
+strings:  0.01784994311460721
+comments:  0.010535551659694437
+exact match:  13917
+total pred:  111231
+--------------------------------------------------
+Extracting memorized content for samples 8100 to 8200...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3363181166648046
+variable_names:  0.35686454277739876
+variable_values:  0.0
+strings:  0.05909633675132878
+comments:  0.04199067195973337
+total match:  25054
+total pred:  96101
+T5: 
+exact match:  0.21517490311833667
+variable_names:  0.24743613189076039
+variable_values:  0.0
+strings:  0.017864428972452995
+comments:  0.010796139867715146
+exact match:  14040
+total pred:  112119
+--------------------------------------------------
+Extracting memorized content for samples 8200 to 8300...
+Error in masking code
+index out of range in self
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3364775533645387
+variable_names:  0.3569619419955865
+variable_values:  0.0
+strings:  0.05895507229153491
+comments:  0.04219231705166759
+total match:  25272
+total pred:  96847
+T5: 
+exact match:  0.21499838685299763
+variable_names:  0.24731575503286166
+variable_values:  0.0
+strings:  0.017700762634697026
+comments:  0.01068419658584759
+exact match:  14154
+total pred:  113060
+--------------------------------------------------
+Extracting memorized content for samples 8300 to 8400...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3362589636854637
+variable_names:  0.35661866867728526
+variable_values:  0.0
+strings:  0.05894043134776764
+comments:  0.04199595803252614
+total match:  25554
+total pred:  98005
+T5: 
+exact match:  0.21496362777560343
+variable_names:  0.24720168911479767
+variable_values:  0.0
+strings:  0.017848035863044627
+comments:  0.010580116414554981
+exact match:  14333
+total pred:  114412
+--------------------------------------------------
+Extracting memorized content for samples 8400 to 8500...
+index out of range in self
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3363458790075207
+variable_names:  0.35647795140978644
+variable_values:  0.0
+strings:  0.05940260751028631
+comments:  0.04224452876008629
+total match:  25880
+total pred:  98913
+T5: 
+exact match:  0.2152626797816191
+variable_names:  0.24735106416207625
+variable_values:  0.0
+strings:  0.017922674041422414
+comments:  0.010598214906005573
+exact match:  14543
+total pred:  115507
+--------------------------------------------------
+Extracting memorized content for samples 8500 to 8600...
+index out of range in self
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.33569385256570744
+variable_names:  0.35597465244203547
+variable_values:  0.0
+strings:  0.05945315449668498
+comments:  0.04223828702932043
+total match:  26112
+total pred:  99838
+T5: 
+exact match:  0.21484178567576645
+variable_names:  0.24691057772120364
+variable_values:  0.0
+strings:  0.018139310659529947
+comments:  0.010681863557948547
+exact match:  14690
+total pred:  116612
+--------------------------------------------------
+Extracting memorized content for samples 8600 to 8700...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+index out of range in self
+index out of range in self
+codeBERT: 
+exact match:  0.3354331131775309
+variable_names:  0.35578430971012953
+variable_values:  0.0
+strings:  0.059327849215545785
+comments:  0.042102748666598584
+total match:  26363
+total pred:  100788
+T5: 
+exact match:  0.21477232807839503
+variable_names:  0.2467499506428526
+variable_values:  0.0
+strings:  0.018235408536828174
+comments:  0.010668065920264773
+exact match:  14842
+total pred:  117744
+--------------------------------------------------
+Extracting memorized content for samples 8700 to 8800...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.33538270365052286
+variable_names:  0.3557297741221384
+variable_values:  0.0
+strings:  0.05891142310862599
+comments:  0.04187147359793871
+total match:  26663
+total pred:  101736
+T5: 
+exact match:  0.21529982810812742
+variable_names:  0.24714007313619615
+variable_values:  0.0
+strings:  0.018027597613331555
+comments:  0.010582914430885947
+exact match:  15054
+total pred:  118894
+--------------------------------------------------
+Extracting memorized content for samples 8800 to 8900...
+Error in masking code
+codeBERT: 
+exact match:  0.33589749529122864
+variable_names:  0.35593435192554385
+variable_values:  0.0
+strings:  0.05917150604434859
+comments:  0.042077354639098404
+total match:  26930
+total pred:  102491
+T5: 
+exact match:  0.21553033843673008
+variable_names:  0.24702861297498224
+variable_values:  0.0
+strings:  0.018167390915275784
+comments:  0.010512785540981253
+exact match:  15203
+total pred:  119900
+--------------------------------------------------
+Extracting memorized content for samples 8900 to 9000...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3356560936806369
+variable_names:  0.35551615483141447
+variable_values:  0.0
+strings:  0.0589737254515346
+comments:  0.04197301834368107
+total match:  27147
+total pred:  103239
+T5: 
+exact match:  0.2147889553137604
+variable_names:  0.2460888187027455
+variable_values:  0.0
+strings:  0.018025536760914732
+comments:  0.010486852935549077
+exact match:  15321
+total pred:  120847
+--------------------------------------------------
+Extracting memorized content for samples 9000 to 9100...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.336549301114237
+variable_names:  0.3562319115844309
+variable_values:  0.0
+strings:  0.05881045194272071
+comments:  0.041882653787489926
+total match:  27413
+total pred:  104105
+T5: 
+exact match:  0.2144012384654804
+variable_names:  0.24552259895798176
+variable_values:  0.0
+strings:  0.01789315180993067
+comments:  0.010556934805593521
+exact match:  15448
+total pred:  121907
+--------------------------------------------------
+Extracting memorized content for samples 9100 to 9200...
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.33709899134325816
+variable_names:  0.356536691786995
+variable_values:  0.0
+strings:  0.05839468256385632
+comments:  0.04173832189253164
+total match:  27690
+total pred:  104851
+T5: 
+exact match:  0.2144766038050629
+variable_names:  0.24566651051606758
+variable_values:  0.0
+strings:  0.017750211706721863
+comments:  0.010469087492446027
+exact match:  15589
+total pred:  122888
+--------------------------------------------------
+Extracting memorized content for samples 9200 to 9300...
+index out of range in self
+Error in masking code
+codeBERT: 
+exact match:  0.337781541354489
+variable_names:  0.35689126823479733
+variable_values:  0.0
+strings:  0.05832242859177307
+comments:  0.0422535985033887
+total match:  27965
+total pred:  105866
+T5: 
+exact match:  0.21486811106884385
+variable_names:  0.24602691087632098
+variable_values:  0.0
+strings:  0.017719499880888476
+comments:  0.010512646247453931
+exact match:  15766
+total pred:  124097
+--------------------------------------------------
+Extracting memorized content for samples 9300 to 9400...
+Error in masking code
+Error in masking code
+index out of range in self
+Error in masking code
+codeBERT: 
+exact match:  0.33787963996978854
+variable_names:  0.3569427369590539
+variable_values:  0.0
+strings:  0.05808324176365153
+comments:  0.04230262571510555
+total match:  28286
+total pred:  107101
+T5: 
+exact match:  0.2145809696896914
+variable_names:  0.24550943782198767
+variable_values:  0.0
+strings:  0.017833476902139978
+comments:  0.010675761443268567
+exact match:  15973
+total pred:  125502
+--------------------------------------------------
+Extracting memorized content for samples 9400 to 9500...
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.33739722512139525
+variable_names:  0.3565409410392106
+variable_values:  0.0
+strings:  0.05814216969782669
+comments:  0.04207592856838966
+total match:  28521
+total pred:  107986
+T5: 
+exact match:  0.21490444975463968
+variable_names:  0.24580815503328607
+variable_values:  0.0
+strings:  0.01784100991014977
+comments:  0.010634881711172819
+exact match:  16155
+total pred:  126589
+--------------------------------------------------
+Extracting memorized content for samples 9500 to 9600...
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3370760155204479
+variable_names:  0.356079853690771
+variable_values:  0.0
+strings:  0.0581979901530494
+comments:  0.042413432738670855
+total match:  28852
+total pred:  109145
+T5: 
+exact match:  0.21505165970839238
+variable_names:  0.2459445811581474
+variable_values:  0.0
+strings:  0.01785349462319649
+comments:  0.010702598749613632
+exact match:  16362
+total pred:  127945
+--------------------------------------------------
+Extracting memorized content for samples 9600 to 9700...
+Error in masking code
+codeBERT: 
+exact match:  0.3371508506764788
+variable_names:  0.35635317200524835
+variable_values:  0.0
+strings:  0.0581412281460238
+comments:  0.042497625338221746
+total match:  29205
+total pred:  110321
+T5: 
+exact match:  0.2155705751121433
+variable_names:  0.24649747874897893
+variable_values:  0.0
+strings:  0.017706753327799515
+comments:  0.0107850088108735
+exact match:  16543
+total pred:  129331
+--------------------------------------------------
+Extracting memorized content for samples 9700 to 9800...
+index out of range in self
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3372460270869619
+variable_names:  0.3564001922549568
+variable_values:  0.0
+strings:  0.05836767506349428
+comments:  0.04255745931699234
+total match:  29492
+total pred:  111421
+T5: 
+exact match:  0.21587180482968515
+variable_names:  0.2467042495669396
+variable_values:  0.0
+strings:  0.017598276225683086
+comments:  0.010749215141572824
+exact match:  16708
+total pred:  130608
+--------------------------------------------------
+Extracting memorized content for samples 9800 to 9900...
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3368321725050969
+variable_names:  0.35645893800594364
+variable_values:  0.0
+strings:  0.05816124575132972
+comments:  0.04280788245553242
+total match:  29970
+total pred:  113081
+T5: 
+exact match:  0.21564290118638832
+variable_names:  0.24640381635944536
+variable_values:  0.0
+strings:  0.017481491698666297
+comments:  0.01079892425736429
+exact match:  16855
+total pred:  132468
+--------------------------------------------------
+Extracting memorized content for samples 9900 to 10000...
+Error in masking code
+codeBERT: 
+exact match:  0.3364226345077451
+variable_names:  0.3559958079952514
+variable_values:  0.0
+strings:  0.05850286797236274
+comments:  0.043094241978352425
+total match:  30399
+total pred:  114570
+T5: 
+exact match:  0.21587488373367977
+variable_names:  0.2465542959477933
+variable_values:  0.0
+strings:  0.017343278129352442
+comments:  0.010810877938655311
+exact match:  17026
+total pred:  134167
+--------------------------------------------------
+Extracting memorized content for samples 10000 to 10100...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.33607059549020896
+variable_names:  0.355585878512962
+variable_values:  0.0
+strings:  0.0583288819590592
+comments:  0.042835466734016905
+total match:  30691
+total pred:  115908
+T5: 
+exact match:  0.21709939464254316
+variable_names:  0.24775753677719206
+variable_values:  0.0
+strings:  0.01736845026462302
+comments:  0.010776273141910113
+exact match:  17263
+total pred:  135713
+--------------------------------------------------
+Extracting memorized content for samples 10100 to 10200...
+too many values to unpack (expected 2)
+codeBERT: 
+exact match:  0.3368591561980484
+variable_names:  0.3564270916797246
+variable_values:  0.0
+strings:  0.05848284850306921
+comments:  0.04309150160616654
+total match:  31043
+total pred:  117094
+T5: 
+exact match:  0.21763664307688607
+variable_names:  0.24831319364025642
+variable_values:  0.0
+strings:  0.017405704098180944
+comments:  0.010713004162331756
+exact match:  17481
+total pred:  137109
+--------------------------------------------------
+Extracting memorized content for samples 10200 to 10300...
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.33779076713531764
+variable_names:  0.35731155130828973
+variable_values:  0.0
+strings:  0.05837153523462132
+comments:  0.043394708621489524
+total match:  31349
+total pred:  117983
+T5: 
+exact match:  0.21766088380934848
+variable_names:  0.24828984286974137
+variable_values:  0.0
+strings:  0.01734929974660607
+comments:  0.010819318831693242
+exact match:  17634
+total pred:  138216
+--------------------------------------------------
+Extracting memorized content for samples 10300 to 10400...
+Error in masking code
+Error in masking code
+Error in masking code
+too many values to unpack (expected 2)
+too many values to unpack (expected 2)
+Error in masking code
+Error in masking code
+index out of range in self
+codeBERT: 
+exact match:  0.3376722794640893
+variable_names:  0.35743589171842427
+variable_values:  0.0
+strings:  0.05813753058368395
+comments:  0.04322788556954375
+total match:  31614
+total pred:  118933
+T5: 
+exact match:  0.2175804272938369
+variable_names:  0.24816131379369466
+variable_values:  0.0
+strings:  0.017338016566846484
+comments:  0.010777454214676902
+exact match:  17796
+total pred:  139344
+--------------------------------------------------
+Extracting memorized content for samples 10400 to 10500...
+Error in masking code
+Error in masking code
+Error in masking code
+index out of range in self
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.33723278376843446
+variable_names:  0.35699673684442346
+variable_values:  0.0
+strings:  0.0583240685720718
+comments:  0.04331210782248069
+total match:  31899
+total pred:  119934
+T5: 
+exact match:  0.21781655977120853
+variable_names:  0.2483400086897788
+variable_values:  0.0
+strings:  0.017434108114173504
+comments:  0.01096071497911763
+exact match:  17983
+total pred:  140551
+--------------------------------------------------
+Extracting memorized content for samples 10500 to 10600...
+index out of range in self
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.33698601869405476
+variable_names:  0.35693243682593784
+variable_values:  0.0
+strings:  0.05814231517499048
+comments:  0.043363009587057244
+total match:  32216
+total pred:  121141
+T5: 
+exact match:  0.21764017760744497
+variable_names:  0.24809952459043608
+variable_values:  0.0
+strings:  0.017300063523140594
+comments:  0.010925758649447415
+exact match:  18161
+total pred:  141947
+--------------------------------------------------
+Extracting memorized content for samples 10600 to 10700...
+Error in masking code
+codeBERT: 
+exact match:  0.3368013636464108
+variable_names:  0.3567199413734104
+variable_values:  0.0
+strings:  0.05788992074963865
+comments:  0.043310973712530836
+total match:  32483
+total pred:  122228
+T5: 
+exact match:  0.2171126924470738
+variable_names:  0.24759231391977604
+variable_values:  0.0
+strings:  0.017185159688820874
+comments:  0.010868616091243363
+exact match:  18283
+total pred:  143245
+--------------------------------------------------
+Extracting memorized content for samples 10700 to 10800...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.3363810714120905
+variable_names:  0.3561547009759391
+variable_values:  0.0
+strings:  0.05767123019195078
+comments:  0.043469843803764285
+total match:  32703
+total pred:  122985
+T5: 
+exact match:  0.21699146980162387
+variable_names:  0.24730027154731
+variable_values:  0.0
+strings:  0.01719166705725045
+comments:  0.010916255011249345
+exact match:  18420
+total pred:  144208
+--------------------------------------------------
+Extracting memorized content for samples 10800 to 10900...
+Error in masking code
+Error in masking code
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.33624169274370647
+variable_names:  0.3558410309229416
+variable_values:  0.0
+strings:  0.057510866130392156
+comments:  0.04345321979159339
+total match:  33025
+total pred:  124337
+T5: 
+exact match:  0.21696106413419683
+variable_names:  0.24713328522166988
+variable_values:  0.0
+strings:  0.017232362013096438
+comments:  0.010856181801837082
+exact match:  18590
+total pred:  145744
+--------------------------------------------------
+Extracting memorized content for samples 10900 to 11000...
+Error in masking code
+index out of range in self
+codeBERT: 
+exact match:  0.3363491385911001
+variable_names:  0.35613337686011315
+variable_values:  0.0
+strings:  0.05746393964431466
+comments:  0.043460092504695555
+total match:  33327
+total pred:  125520
+T5: 
+exact match:  0.21726635674014172
+variable_names:  0.2474302785874912
+variable_values:  0.0
+strings:  0.017191620238447364
+comments:  0.010796025326189826
+exact match:  18775
+total pred:  147123
+--------------------------------------------------
+Extracting memorized content for samples 11000 to 11100...
+Error in masking code
+Error in masking code
+codeBERT: 
+exact match:  0.33608835997415015
+variable_names:  0.3558615917684825
+variable_values:  0.0
+strings:  0.057322900116956774
+comments:  0.043498187153026696
+total match:  33584
+total pred:  126510
+T5: 
+exact match:  0.21730798656653988
+variable_names:  0.24740608325994906
+variable_values:  0.0
+strings:  0.017295603799515794
+comments:  0.01075635962846797
+exact match:  18946
+total pred:  148302
+--------------------------------------------------
+Extracting memorized content for samples 11100 to 11200...
+Error in masking code
+codeBERT: 
+exact match:  0.33637670487227167
+variable_names:  0.3560733491539731
+variable_values:  0.0
+strings:  0.05714088897531555
+comments:  0.04332859232398203
+total match:  33814
+total pred:  127369
+T5: 
+exact match:  0.21719837131816266
+variable_names:  0.24729101382038415
+variable_values:  0.0
+strings:  0.01734106571728368
+comments:  0.010675529385190907
+exact match:  19096
+total pred:  149399
+--------------------------------------------------
+Extracting memorized content for samples 11200 to 11300...

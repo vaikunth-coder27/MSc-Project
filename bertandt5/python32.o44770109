@@ -1,0 +1,306 @@
+Using device: cpu
+Programming language: python
+Masking ratio: 0.75
+Output directory: output
+Autoregressive model: Salesforce/codet5-large
+Non-autoregressive model: microsoft/codebert-base-mlm
+Quantization: False
+Loading model, dataset and tokenizer
+Model, dataset and tokenizer loaded successfully
+initiating extraction process...
+Extracting memorized content for samples 0 to 100...
+codeBERT: 
+exact match:  0.24967925707290345
+variable_names:  0.33924309220504
+variable_values:  0.0
+strings:  0.20354105348419718
+comments:  0.021304760577586665
+total match:  969
+total pred:  4278
+T5: 
+exact match:  0.11457708510653371
+variable_names:  0.20158337652197278
+variable_values:  0.0
+strings:  0.03686799155195082
+comments:  0.004518543956043956
+exact match:  354
+total pred:  4449
+--------------------------------------------------
+Extracting memorized content for samples 100 to 200...
+index out of range in self
+index out of range in self
+codeBERT: 
+exact match:  0.25999087117400915
+variable_names:  0.3751103465996905
+variable_values:  0.0
+strings:  0.184943308255417
+comments:  0.01890419277935747
+total match:  1687
+total pred:  7148
+T5: 
+exact match:  0.11916311864594184
+variable_names:  0.2115431775448694
+variable_values:  0.0
+strings:  0.03064359937759959
+comments:  0.003628894253894254
+exact match:  624
+total pred:  7523
+--------------------------------------------------
+Extracting memorized content for samples 200 to 300...
+index out of range in self
+codeBERT: 
+exact match:  0.27363732596783746
+variable_names:  0.38436570544686094
+variable_values:  0.0
+strings:  0.20391043993124883
+comments:  0.017051003982273192
+total match:  2631
+total pred:  10788
+T5: 
+exact match:  0.1335004884825057
+variable_names:  0.23722144978542467
+variable_values:  0.0
+strings:  0.038346207367864135
+comments:  0.00391283099616433
+exact match:  1040
+total pred:  11324
+--------------------------------------------------
+Extracting memorized content for samples 300 to 400...
+codeBERT: 
+exact match:  0.26910924854896934
+variable_names:  0.3728829649811123
+variable_values:  0.0
+strings:  0.1941120612452234
+comments:  0.01679792666842278
+total match:  3346
+total pred:  13815
+T5: 
+exact match:  0.14731402959945972
+variable_names:  0.25274999429611544
+variable_values:  0.0
+strings:  0.0385554213735016
+comments:  0.002927231249019662
+exact match:  1462
+total pred:  14510
+--------------------------------------------------
+Extracting memorized content for samples 400 to 500...
+codeBERT: 
+exact match:  0.27269491361196585
+variable_names:  0.37903083583445435
+variable_values:  0.0
+strings:  0.19780192003679056
+comments:  0.014770176134048137
+total match:  4613
+total pred:  19545
+T5: 
+exact match:  0.14408679066129138
+variable_names:  0.24716174786749726
+variable_values:  0.0
+strings:  0.03831562185245594
+comments:  0.0025805073312946637
+exact match:  1795
+total pred:  20394
+--------------------------------------------------
+Extracting memorized content for samples 500 to 600...
+index out of range in self
+codeBERT: 
+exact match:  0.2698699127988015
+variable_names:  0.3825697692100976
+variable_values:  0.0
+strings:  0.19275068622721608
+comments:  0.014164161563185172
+total match:  5472
+total pred:  23622
+T5: 
+exact match:  0.1384011669180671
+variable_names:  0.24264481094585816
+variable_values:  0.0
+strings:  0.03932057326406622
+comments:  0.0025363738428189845
+exact match:  2099
+total pred:  24608
+--------------------------------------------------
+Extracting memorized content for samples 600 to 700...
+codeBERT: 
+exact match:  0.27319701877762925
+variable_names:  0.3860837795704758
+variable_values:  0.0
+strings:  0.19760277240111213
+comments:  0.016529827453596234
+total match:  6616
+total pred:  28754
+T5: 
+exact match:  0.1345593918083656
+variable_names:  0.23994547274780906
+variable_values:  0.0
+strings:  0.038353095826732034
+comments:  0.0027065925573702934
+exact match:  2388
+total pred:  29908
+--------------------------------------------------
+Extracting memorized content for samples 700 to 800...
+index out of range in self
+index out of range in self
+index out of range in self
+index out of range in self
+codeBERT: 
+exact match:  0.275304419838516
+variable_names:  0.3844412741392243
+variable_values:  0.0
+strings:  0.20035147816606658
+comments:  0.022695203886422696
+total match:  7999
+total pred:  34520
+T5: 
+exact match:  0.13204295018183812
+variable_names:  0.23320218042702157
+variable_values:  0.0
+strings:  0.040355582381369215
+comments:  0.0045728331779837286
+exact match:  2764
+total pred:  35838
+--------------------------------------------------
+Extracting memorized content for samples 800 to 900...
+index out of range in self
+index out of range in self
+index out of range in self
+index out of range in self
+codeBERT: 
+exact match:  0.2718444086063879
+variable_names:  0.38074774350763063
+variable_values:  0.0
+strings:  0.19522867406753677
+comments:  0.025045101150838876
+total match:  9354
+total pred:  41034
+T5: 
+exact match:  0.12985781738692176
+variable_names:  0.22903439324408045
+variable_values:  0.0
+strings:  0.03955908616379197
+comments:  0.004964430957218148
+exact match:  3146
+total pred:  42521
+--------------------------------------------------
+Extracting memorized content for samples 900 to 1000...
+index out of range in self
+index out of range in self
+codeBERT: 
+exact match:  0.27047632560054713
+variable_names:  0.3806817141953432
+variable_values:  0.0
+strings:  0.1908650673857375
+comments:  0.029233365735421256
+total match:  10454
+total pred:  45939
+T5: 
+exact match:  0.12775776658279772
+variable_names:  0.22448637107911723
+variable_values:  0.0
+strings:  0.04060011706782522
+comments:  0.004878827488093543
+exact match:  3501
+total pred:  47607
+--------------------------------------------------
+Extracting memorized content for samples 1000 to 1100...
+index out of range in self
+codeBERT: 
+exact match:  0.2732650497145256
+variable_names:  0.3815717468531178
+variable_values:  0.0
+strings:  0.19766998852020815
+comments:  0.030581294597475876
+total match:  11549
+total pred:  50650
+T5: 
+exact match:  0.12774296920534367
+variable_names:  0.22113268058374977
+variable_values:  0.0
+strings:  0.04163936529728908
+comments:  0.005082267214363587
+exact match:  3941
+total pred:  52486
+--------------------------------------------------
+Extracting memorized content for samples 1100 to 1200...
+index out of range in self
+index out of range in self
+index out of range in self
+codeBERT: 
+exact match:  0.27087349489831036
+variable_names:  0.3773118845638879
+variable_values:  0.0
+strings:  0.19773974894277402
+comments:  0.030981870335207835
+total match:  13389
+total pred:  59205
+T5: 
+exact match:  0.12667918077009738
+variable_names:  0.2172981480503055
+variable_values:  0.0
+strings:  0.04242875504045041
+comments:  0.004842456630379274
+exact match:  4397
+total pred:  61184
+--------------------------------------------------
+Extracting memorized content for samples 1200 to 1300...
+index out of range in self
+index out of range in self
+index out of range in self
+index out of range in self
+codeBERT: 
+exact match:  0.26994339416519436
+variable_names:  0.3780369967469438
+variable_values:  0.0
+strings:  0.1970008931827501
+comments:  0.03294647122997697
+total match:  15268
+total pred:  68032
+T5: 
+exact match:  0.1240829753388801
+variable_names:  0.21282871283626473
+variable_values:  0.0
+strings:  0.042916658097224836
+comments:  0.004534129163099871
+exact match:  4756
+total pred:  70153
+--------------------------------------------------
+Extracting memorized content for samples 1300 to 1400...
+index out of range in self
+index out of range in self
+codeBERT: 
+exact match:  0.2663923629077157
+variable_names:  0.37305739028521506
+variable_values:  0.0
+strings:  0.19490644574515828
+comments:  0.032508316272611866
+total match:  16630
+total pred:  74839
+T5: 
+exact match:  0.12320675645575227
+variable_names:  0.21021050495597055
+variable_values:  0.0
+strings:  0.04368617214116706
+comments:  0.004378914463089292
+exact match:  5191
+total pred:  77131
+--------------------------------------------------
+Extracting memorized content for samples 1400 to 1500...
+index out of range in self
+codeBERT: 
+exact match:  0.2668077487145375
+variable_names:  0.37246137775497085
+variable_values:  0.0
+strings:  0.19257894245591248
+comments:  0.03340538191341319
+total match:  17784
+total pred:  80026
+T5: 
+exact match:  0.124150795905128
+variable_names:  0.2097941513281059
+variable_values:  0.0
+strings:  0.04518967987722481
+comments:  0.00447012408174466
+exact match:  5609
+total pred:  82486
+--------------------------------------------------
+Extracting memorized content for samples 1500 to 1600...
